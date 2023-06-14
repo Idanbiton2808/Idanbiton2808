@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on many innovative technologies
 - 📫 How to reach me 
 - Mail adress : idanbiton28@gmail.com
-- Phone : +9728173175
+- Phone : +972548173175
 
 <!---
 Idanbiton2808/Idanbiton2808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
