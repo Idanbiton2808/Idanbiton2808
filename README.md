@@ -6,7 +6,7 @@ I'm Idan Biton, a passionate computer science student with a strong appetite for
 Currently pursuing my Bachelor's degree in Computer Science at HIT. I'm constantly expanding my knowledge and honing my skills in various areas of computer science, including algorithms, data structures, software development, and artificial intelligence.
 
 🚀 Interests:
-I'm particularly interested in web development, mobile app development, and machine learning. I enjoy building robust and user-friendly applications that make a positive impact on people's lives. Exploring new technologies and frameworks is my way of staying up-to-date with the latest trends and pushing the boundaries of what's possible in the digital world.
+I'm particularly interested in web development, mobile app development, machine learning and the world of Data and BI. I enjoy building robust and user-friendly applications that make a positive impact on people's lives. Exploring new technologies and frameworks is my way of staying up-to-date with the latest trends and pushing the boundaries of what's possible in the digital world.
 
 🌟 Projects:
 Take a look at my GitHub repositories to explore some of the projects I've been working on.I love tackling challenging problems and crafting elegant solutions. Feedback and collaboration are always welcome!
