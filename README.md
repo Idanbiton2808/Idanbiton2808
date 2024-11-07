@@ -12,7 +12,7 @@ I'm particularly interested in web development, mobile app development, machine 
 Take a look at my GitHub repositories to explore some of the projects I've been working on.I love tackling challenging problems and crafting elegant solutions. Feedback and collaboration are always welcome!
 
 💡 Skills:
-Proficient in languages such as Java, Python, JavaScript, C++, C# .NET and C I'm always eager to learn new programming languages and frameworks. Additionally, I have experience with front-end technologies like HTML, CSS.
+Proficient in languages such as  Python, JavaScript, C++, C# .NET and C I'm always eager to learn new programming languages and frameworks. Additionally, I have experience with front-end technologies like HTML, CSS.
 
 🤝 Let's Connect:
 I'm open to collaborating on exciting projects, contributing to open-source initiatives, and connecting with like-minded individuals. Feel free to reach out to me via email or connect with me on LinkedIn. Let's inspire and learn from each other!
