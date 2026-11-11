@@ -2,7 +2,7 @@
 
 **Full Stack Developer** building end-to-end product features, from React and Next.js interfaces to Node.js and Python services running on AWS.
 
-- 💼 2+ years shipping production features in startup teams: full-stack Next.js apps with TypeScript, REST APIs on PostgreSQL, AWS S3 services, and Docker environments managed with Devtron
+- 💼 2+ years shipping production features in startup teams: full-stack Next.js apps with TypeScript, REST APIs on PostgreSQL, AWS cloud services, and Docker environments managed with Devtron
 - 🤖 AI integration: building on LLMs like Claude, developing AI agents, orchestrator layers and agent factories, and coding daily with Claude, Codex and Cursor
 - 🎓 B.Sc. in Computer Science, HIT – Holon Institute of Technology
 - 🏆 1st place at the PHOENIX and Chegg hackathons
@@ -30,7 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Devtron](https://img.shields.io/badge/Devtron-0066FF?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
