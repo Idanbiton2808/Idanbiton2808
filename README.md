@@ -1,8 +1,8 @@
 # Hi, I'm Idan Biton 👋
 
-**Full Stack Developer** building end-to-end product features, from React interfaces to Node.js and Python services running on AWS.
+**Full Stack Developer** building end-to-end product features, from React and Next.js interfaces to Node.js and Python services running on AWS.
 
-- 💼 2+ years shipping production features in startup teams: REST APIs on PostgreSQL, AWS S3 services, and Docker environments managed with Devtron
+- 💼 2+ years shipping production features in startup teams: full-stack Next.js apps with TypeScript, REST APIs on PostgreSQL, AWS S3 services, and Docker environments managed with Devtron
 - 🎓 B.Sc. in Computer Science, HIT – Holon Institute of Technology
 - 🏆 1st place at the PHOENIX and Chegg hackathons
 - 📫 Reach me at **idanbiton28@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/idan-biton/)
